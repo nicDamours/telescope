@@ -1,6 +1,19 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/telescope/compare/v5.1.1...5.x)
+## [Unreleased](https://github.com/laravel/telescope/compare/v5.2.2...5.x)
+
+## [v5.2.2](https://github.com/laravel/telescope/compare/v5.2.1...v5.2.2) - 2024-08-26
+
+* Revert "[5.x] Enhance Telescope Clear Method" by [@taylorotwell](https://github.com/taylorotwell) in https://github.com/laravel/telescope/pull/1510
+
+## [v5.2.1](https://github.com/laravel/telescope/compare/v5.2.0...v5.2.1) - 2024-08-20
+
+* Fix that multiple use of the same binding is only replaced once in the query by [@kohlerdominik](https://github.com/kohlerdominik) in https://github.com/laravel/telescope/pull/1503
+* [5.x] Enhance Telescope Clear Method by [@a1383n](https://github.com/a1383n) in https://github.com/laravel/telescope/pull/1507
+
+## [v5.2.0](https://github.com/laravel/telescope/compare/v5.1.1...v5.2.0) - 2024-08-02
+
+* add support for non-standard PDOs by [@macbookandrew](https://github.com/macbookandrew) in https://github.com/laravel/telescope/pull/1499
 
 ## [v5.1.1](https://github.com/laravel/telescope/compare/v5.1.0...v5.1.1) - 2024-06-27
 
